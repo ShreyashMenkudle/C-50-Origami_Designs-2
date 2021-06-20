@@ -1,0 +1,37 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(15, 199, 153);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    background-color: whitesmoke;
+}
+H1{
+    color: yellowgreen;
+}
+.header{
+    background-color:green;
+    display:flex;
+    justify-content: space-between;
+}
+
+.origami{
+
+    border-radius: 20px;
+    display:flex;
+
+    width : 310px;
+    font-family: fantasy;
+
+    justify-content: space-evenly;
+    flex-wrap: wrap; 
+}
+
+p{
+    COLOR:rgb(31, 7, 7);
+    align-content: center;
+}
